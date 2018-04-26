@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "26608047769",
+    "firebase_url": "https://rqionicpushnotif.firebaseio.com",
+    "project_id": "rqionicpushnotif",
+    "storage_bucket": "rqionicpushnotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26608047769:android:fe9e53ab6efa8d77",
+        "android_client_info": {
+          "package_name": "io.ionic.pushbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26608047769-sj4kvkgv4rcblmmksnt45munhhemjsss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrDkzw-_HAvUYxhWtnCh3E4AlU1vYaVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26608047769:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26608047769-sj4kvkgv4rcblmmksnt45munhhemjsss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWrDkzw-_HAvUYxhWtnCh3E4AlU1vYaVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
