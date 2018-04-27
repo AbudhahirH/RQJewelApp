@@ -1,6 +1,6 @@
 {
-  "name": "push_notify",
-  "app_id": "fa79d08b",
+  "name": "RQJewelApp",
+  "app_id": "b7158076",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
