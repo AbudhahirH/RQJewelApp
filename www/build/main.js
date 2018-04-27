@@ -98,7 +98,7 @@ var AboutPage = (function () {
     }
     AboutPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-about',template:/*ion-inline-start:"E:\RadiantQ\GC\Dev\MobileAppDev\Researches\IONIC-Framework\RQJewelApp\src\pages\about\about.html"*/`<ion-header>\n  <ion-navbar>\n    <ion-title>\n      About\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n\n</ion-content>\n`/*ion-inline-end:"E:\RadiantQ\GC\Dev\MobileAppDev\Researches\IONIC-Framework\RQJewelApp\src\pages\about\about.html"*/
+            selector: 'page-about',template:/*ion-inline-start:"E:\RadiantQ\GC\Dev\MobileAppDev\Researches\IONIC-Framework\RQJewelApp\src\pages\about\about.html"*/`<ion-header>\n  <ion-navbar>\n    <ion-title>\n      About Page\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n\n</ion-content>\n`/*ion-inline-end:"E:\RadiantQ\GC\Dev\MobileAppDev\Researches\IONIC-Framework\RQJewelApp\src\pages\about\about.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */]])
     ], AboutPage);
@@ -283,6 +283,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 
 
+//import { PushObject, PushOptions } from '@ionic-native/push';
 var AppModule = (function () {
     function AppModule() {
     }
